@@ -1,9 +1,3 @@
-
-// Author:		William Shuppert
-// Filename:	lookoutbelow.cpp
-// Description:	calculate time of when to drop a 
-//				balloon in order to hit your friend.
-
 #include <iostream>
 #include <cmath>
 #include <iomanip>
