@@ -1,3 +1,0 @@
-﻿  rolldice.cpp
-c:\users\will\source\repos\rolldice\rolldice\rolldice.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  rolldice.vcxproj -> C:\Users\Will\source\repos\rolldice\Debug\rolldice.exe
