@@ -1,4 +1,9 @@
+# Lab 5
 
-diceroll.ccp
+## diceroll.ccp output:
 
-![diceroll](https://github.com/williamShuppert/Computer-Programming-Courses/blob/main/Computer Science 1/Lab 5/pics/diceroll.PNG)
+![output](https://github.com/williamShuppert/Computer-Programming-Courses/blob/main/Computer%20Science%201/Lab%205/pics/rolldice.PNG)
+
+## logtable.ccp output:
+
+![output](https://github.com/williamShuppert/Computer-Programming-Courses/blob/main/Computer%20Science%201/Lab%205/pics/logtable.PNG)
