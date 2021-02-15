@@ -1,9 +1,3 @@
-
-// Author:		William Shuppert
-// Filename:	logtable.cpp
-// Description:	create a table that shows the
-//				values of log10, log2, and ln.
-
 #include <iostream>
 #include <iomanip>
 #include <cmath>
