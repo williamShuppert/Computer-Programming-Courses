@@ -1,8 +1,3 @@
-
-// Author:		William Shuppert
-// Filename:	logtable.cpp
-// Description:	a dice game
-
 #include <iostream>
 #include <ctime>
 using namespace std;
