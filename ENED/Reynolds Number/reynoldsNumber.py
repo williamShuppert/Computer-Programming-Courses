@@ -1,18 +1,3 @@
-# Activity Python 1: Task 2
-# File: HW_11p2_Task2_shuppewd.py
-# Date:    11/11/20
-# By:      William Shuppert
-# Section: 013
-# Team:    165
-# 
-# ELECTRONIC SIGNATURE
-# William Shuppert
-#
-# The electronic signature above indicates the script
-# submitted for evaluation is my individual work, and I
-# have a general understanding of all aspects of its
-# development and execution.
-#
 # A BRIEF DESCRIPTION OF WHAT THE SCRIPT OR FUNCTION DOES
 # This program finds the reynolds number and determines the type of flow
 
