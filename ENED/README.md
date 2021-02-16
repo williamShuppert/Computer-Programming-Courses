@@ -1,3 +1,5 @@
 # ENED
 
-Languages: Python, MATLAB
+Languages: 
+* Python
+* MATLAB
