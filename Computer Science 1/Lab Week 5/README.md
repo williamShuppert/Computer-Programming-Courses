@@ -1,4 +1,4 @@
-# Lab 5
+# Lab Week 5
 
 This lab focuses on loops.
 
