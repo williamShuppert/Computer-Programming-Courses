@@ -1,19 +1,3 @@
-% Activity HW 4.1:  Homework 4.1
-% File:         HW_4p1_Task2_shuppewd.m
-% Date:         02/05/21
-% By:           Will Shuppert (shuppewd)
-%
-% Section:      011
-% Team:         182
-%
-% ELECTRONIC SIGNATURE
-% Will Shuppert
-%
-% The electronic signature above indicates the script
-% submitted for evaluation is my individual work, and I
-% have a general understanding of all aspects of its
-% development and execution.
-%
 % A BRIEF DESCRIPTION OF WHAT THE SCRIPT OR FUNCTION DOES
 % Finds the nth term in the Padovan sequence
 
